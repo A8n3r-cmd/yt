@@ -1,4 +1,4 @@
-module github.com/danielmiessler/yt
+module github.com/A8n3r-cmd/yt
 
 go 1.23
 
